@@ -14,12 +14,24 @@ Inspirational iOS/SwiftUI animations for your projects. The new Phase Animation,
 ![Slide animation using scale, 3D rotation, opacity and hue rotation](https://github.com/GetStream/SwiftUI-open-audio-video-animations/blob/main/imagePreviews/slideWith3DRotation.gif)
 ---
 
-**Slide animation using scale, opacity and hue rotation, offset and spring**: [Swift file](#)
+**Slide animation using scale, opacity and hue rotation, offset, and spring**: [Swift file](#)
 ![Slide animation using scale, opacity and hue rotation, offset and spring](https://github.com/GetStream/SwiftUI-open-audio-video-animations/blob/main/imagePreviews/slideWithSpring.gif)
 ---
 
-**Slide animation using scale, opacity and offset**: [Swift file](#)
-![Slide animation using scale](https://github.com/GetStream/SwiftUI-open-audio-video-animations/blob/main/imagePreviews/slideWithScale.gif)
+**Audio Rooom Animated Reactions**: [Swift file](#)
+![Audio Rooom Animated Reactions](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/AllGIF/audiorooms.gif)
+---
+
+**Livestreaming animation similar to Telegram**: [Swift file](#)
+![Livestreaming animation similar to Telegram](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/AllGIF/livestream.gif)
+---
+
+**Calling Animation: Using Phase Animation and Symbol Effect**: [Swift file](#)
+![Calling Animation: Using Phase Animation and Symbol Effect](https://github.com/amosgyamfi/open-swiftui-animations/blob/master/AllGIF/symbolEffect.gif)
+---
+
+**Slide animation using scale, opacity and hue rotation, offset, and spring**: [Swift file](#)
+![Slide animation using scale, opacity and hue rotation, offset and spring](https://github.com/GetStream/SwiftUI-open-audio-video-animations/blob/main/imagePreviews/slideWithSpring.gif)
 ---
 
 ## SwiftUI Clone: Duolingo Get Started character animation: <a href="#"> Swift file</a>
